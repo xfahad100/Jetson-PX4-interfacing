@@ -1,0 +1,3 @@
+[submodule "MAV2"]
+	path = MAV2
+	url = https://github.com/mavlink/c_library_v2.git
